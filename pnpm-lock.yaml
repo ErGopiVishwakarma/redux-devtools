@@ -63,7 +63,7 @@ importers:
       '@types/react-dom': ^18.0.11
       '@types/styled-components': ^5.1.26
       babel-loader: ^9.1.2
-      chromedriver: ^110.0.0
+      chromedriver: ^111.0.0
       copy-webpack-plugin: ^11.0.0
       cpy-cli: ^4.2.0
       cross-env: ^7.0.3
@@ -140,7 +140,7 @@ importers:
       '@types/react-dom': 18.0.11
       '@types/styled-components': 5.1.26
       babel-loader: 9.1.2_qoaxtqicpzj5p3ubthw53xafqm
-      chromedriver: 110.0.0
+      chromedriver: 111.0.0
       copy-webpack-plugin: 11.0.0_webpack@5.75.0
       cpy-cli: 4.2.0
       cross-env: 7.0.3
@@ -11082,8 +11082,8 @@ packages:
     engines: {node: '>=6.0'}
     dev: true
 
-  /chromedriver/110.0.0:
-    resolution: {integrity: sha512-Le6q8xrA/3fAt+g8qiN0YjsYxINIhQMC6wj9X3W5L77uN4NspEzklDrqYNwBcEVn7PcAEJ73nLlS7mTyZRspHA==}
+  /chromedriver/111.0.0:
+    resolution: {integrity: sha512-XavNYNBBfKIrT8Oi/ywJ0DoOOU+jHF5bQWTkqStFsAXvfCV9VzYN3J+TGAvZdrpXeoixqPRGUxQ2yZhD2iowdQ==}
     engines: {node: '>=14'}
     hasBin: true
     requiresBuild: true
